@@ -77,8 +77,14 @@ Give credit here.
 - upGrad learning platform
 - References:
    - https://stackoverflow.com/
-   - 
-- This project was based on [this tutorial](https://www.example.com).
+   - https://stackexchange.com/
+   - https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+   - https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/
+   - https://pynative.com/pandas-drop-na-columns-from-dataframe/
+   - https://www.numpyninja.com/post/automated-eda-exploratory-data-analysis-and-data-cleaning-in-python-using-dataprep 
+- This project was based on 
+   - [Youtube tutorial](https://www.youtube.com/watch?v=F-X82zhIfBo&ab_channel=KrishNaik)
+   - [Kaggle tutorial](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis)
 
 
 ## Contact
