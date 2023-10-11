@@ -42,6 +42,7 @@
 - pandas - version 1.5.3
 - matplotlib - version 3.7.0
 - seaborn - version 0.12.2
+- scipy - version 1.10.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
