@@ -88,7 +88,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@shahprashant030] - feel free to contact me!
+Created by [@shahprashant030](https://github.com/shahprashant030) - feel free to contact me!
 
 
 <!-- Optional -->
